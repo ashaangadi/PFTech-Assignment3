@@ -1,0 +1,37 @@
+.icons-div {
+    width: 100%;
+    
+}
+.itemicon{
+ width:20%;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 5px;
+  margin-left:5px;
+  margin-bottom: 1px;
+
+  padding-left:14px;
+  padding-right:14px;
+}
+
+
+.item{
+  width:22%;
+  text-align:left;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 5px;
+  margin-left:5px;
+  margin-bottom: 1px;
+  float:left;20px;
+  padding-left:14px;
+  padding-right:14px;
+}
+
+#index-gallery
+  {
+  width:100%;
+}
